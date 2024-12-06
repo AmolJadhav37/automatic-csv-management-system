@@ -1,0 +1,126 @@
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Mail sent successfully
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Mail sent successfully
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+Mail sent successfully
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+Mail sending failed
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+Mail sending failed
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+mail sent successfully
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Query 1: Average sales in type B store in April:  2608.8235294117647059
+Query 2: Best average sales in the holiday week:  C          | 3300.0000000000000000
+Query 3: Expected sales when unemployment > 8:            121 | 2860.0000000000000000
+           115 | 3520.0000000000000000
+           113 | 3080.0000000000000000
+           102 | 1800.0000000000000000
+           118 | 2900.0000000000000000
+           104 | 2000.0000000000000000
+           111 | 3410.0000000000000000
+           123 | 3300.0000000000000000
+           128 | 2600.0000000000000000
+           126 | 2300.0000000000000000
+           103 | 2420.0000000000000000
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+          avg          
+-----------------------
+ 2609.1025641025641026
+(1 row)
+
+ store_type |          avg          
+------------+-----------------------
+ C          | 3300.0000000000000000
+(1 row)
+
+ department_id |          avg          
+---------------+-----------------------
+           121 | 2860.0000000000000000
+           115 | 3520.0000000000000000
+           113 | 3080.0000000000000000
+           102 | 1800.0000000000000000
+           118 | 2900.0000000000000000
+           104 | 2000.0000000000000000
+           111 | 3410.0000000000000000
+           123 | 3300.0000000000000000
+           128 | 2600.0000000000000000
+           126 | 2300.0000000000000000
+           103 | 2420.0000000000000000
+(11 rows)
+
+Error sending email.
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+          avg          
+-----------------------
+ 2609.3181818181818182
+(1 row)
+
+ store_type |          avg          
+------------+-----------------------
+ C          | 3300.0000000000000000
+(1 row)
+
+ department_id |          avg          
+---------------+-----------------------
+           121 | 2860.0000000000000000
+           113 | 3080.0000000000000000
+           115 | 3520.0000000000000000
+           102 | 1800.0000000000000000
+           118 | 2900.0000000000000000
+           104 | 2000.0000000000000000
+           111 | 3410.0000000000000000
+           123 | 3300.0000000000000000
+           128 | 2600.0000000000000000
+           126 | 2300.0000000000000000
+           103 | 2420.0000000000000000
+(11 rows)
+
+Error sending email.
+Processing /home/amoldatta/guvi_project/csv/sample_sales_data.csv...
+Uploaded /home/amoldatta/guvi_project/csv/sample_sales_data.csv successfully.
+Hard link for /home/amoldatta/guvi_project/csv/sample_sales_data.csv already exists.
+          avg          
+-----------------------
+ 2609.4897959183673469
+(1 row)
+
+ store_type |          avg          
+------------+-----------------------
+ C          | 3300.0000000000000000
+(1 row)
+
+ department_id |          avg          
+---------------+-----------------------
+           121 | 2860.0000000000000000
+           115 | 3520.0000000000000000
+           113 | 3080.0000000000000000
+           102 | 1800.0000000000000000
+           118 | 2900.0000000000000000
+           104 | 2000.0000000000000000
+           111 | 3410.0000000000000000
+           123 | 3300.0000000000000000
+           128 | 2600.0000000000000000
+           126 | 2300.0000000000000000
+           103 | 2420.0000000000000000
+(11 rows)
+
+Error sending email.
